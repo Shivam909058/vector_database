@@ -1,0 +1,8 @@
+setup.py
+vector_database/__init__.py
+vector_database/vector_database.py
+vector_database.egg-info/PKG-INFO
+vector_database.egg-info/SOURCES.txt
+vector_database.egg-info/dependency_links.txt
+vector_database.egg-info/requires.txt
+vector_database.egg-info/top_level.txt
